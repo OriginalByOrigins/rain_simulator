@@ -1,0 +1,1 @@
+Implement a rain simulator using Pygame module.
